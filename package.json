@@ -1,0 +1,19 @@
+{
+  "name": "commercial-iot-smart-home-rest-server",
+  "version": "1.0.0",
+  "description": "Express server providing the REST APIs for controlling the sensors",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "iot",
+    "rest",
+    "server",
+    "express",
+    "smarthome",
+    "node"
+  ],
+  "author": "Kona",
+  "license": "MIT"
+}
